@@ -1,0 +1,1 @@
+A simple and fun Instagram caption and hashtag generator website. Users can type a keyword, mood, or topic, and get multiple caption suggestions and related hashtags ready to copy. Perfect for Instagram creators looking for quick, trendy captions!
